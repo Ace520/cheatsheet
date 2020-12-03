@@ -1,0 +1,17 @@
+{
+    "name": "cheatsheet",
+    "version": "1.0.0",
+    "description": "cheatsheet",
+    "scripts": {
+        "build": "vuepress build .",
+        "dev": "vuepress dev ."
+    },
+    "dependencies": {
+        "@vuepress/core": "^1.7.1",
+        "masonry-layout": "^4.2.2",
+        "vuepress-plugin-container": "^2.1.5"
+    },
+    "devDependencies": {
+        "vuepress": "^1.7.1"
+    }
+}
