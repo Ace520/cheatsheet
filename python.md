@@ -4,7 +4,7 @@ title: python 速查表
 date: 2020-01-21
 tags:
   - python
-img: python.png
+icon: python.png
 ---
 
 ::: card Main

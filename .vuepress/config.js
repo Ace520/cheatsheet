@@ -3,6 +3,11 @@ module.exports = {
     base: '/cheatsheet/',
     description: 'cheatsheet',
     themeConfig: {
+        gh: {
+            owner: 'Ace520',
+            repo: 'cheatsheet',
+            branch:'master',
+        },
     },
     markdown: {
         anchor: { permalink: false },

@@ -4,7 +4,7 @@ title: Vim 命令大全
 date: 2020-02-21
 tags:
   - vim
-img: vim.png
+icon: vim.png
 ---
 ::: card 进入vim的命令
 ``` bash

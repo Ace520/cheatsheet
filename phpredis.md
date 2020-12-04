@@ -4,7 +4,7 @@ title: PHPRedis 速查表
 date: 2019-05-15
 tags:
   - php
-img: redis.png
+icon: redis.png
 ---
 
 ::: card Redis 连接与认证

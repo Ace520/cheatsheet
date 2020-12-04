@@ -4,7 +4,7 @@ title: Laravel 速查表 6.0
 date: 2019-03-05
 tags:
   - php
-img: laravel.png
+icon: laravel.png
 ---
 
 ::: card Artisan

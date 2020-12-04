@@ -4,7 +4,7 @@ title: PHP 函数速查表
 date: 2019-03-05
 tags:
   - php
-img: php.png
+icon: php.png
 ---
 ::: card 数组
 - [array_change_key_case](http://php.p2hp.com/manual/zh/function.array-change-key-case.php) - 更改数组中所有键的大小写

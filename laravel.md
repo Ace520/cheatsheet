@@ -1,7 +1,7 @@
 ---
 layout: MasonryLayout
 title: PHP 函数速查表
-icon: https://raw.githubusercontent.com/Ace520/cheatsheet/master/static/laravel.png
+icon: laravel.png
 ---
 
 ::: card 数组

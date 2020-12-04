@@ -4,7 +4,7 @@ title: Bash终端速查表
 date: 2018-11-01
 tags:
   - bash
-img: bash.png
+icon: bash.png
 ---
 
 ::: card 终端技巧

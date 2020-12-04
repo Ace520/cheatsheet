@@ -4,7 +4,7 @@ title: Go 资源大全
 date: 2018-10-05
 tags:
   - go
-img: go.png
+icon: go.png
 ---
 
 ::: card 音频和音乐
